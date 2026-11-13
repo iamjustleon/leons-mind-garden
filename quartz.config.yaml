@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: leonsmindgarden.github.io
+  baseUrl: iamjustleon.github.io/leons-mind-garden
   ignorePatterns:
     - private
     - templates
